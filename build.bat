@@ -1,4 +1,4 @@
-set CONAN_EXE=C:\Users\boc\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts\conan.exe
+set CONAN_EXE=conan.exe 
 
 set BUILD_TYPE=Release
 
